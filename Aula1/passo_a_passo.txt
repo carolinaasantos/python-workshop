@@ -1,0 +1,10 @@
+Passo a passo do projeto - Lógica da programação
+
+1. Abrir o sistema da empresa
+    a. Abrir o navegador (Chrome)
+    b. Entrar no site: https://dlp.hashtagtreinamentos.com/python/intensivao/login
+    c. Para instalar: pip install pyautogui
+2. Fazer login
+3. Abrir/Importar a base de dados de produtos para cadastrar
+4. Cadastrar um produto
+5. Repetir tudo até acabar a lista de produtos
