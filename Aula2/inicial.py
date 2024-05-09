@@ -15,7 +15,7 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 
 # PASSO 1: Importar a base de dados
 import pandas as pd
-tabela = pd.read_csv('./cancelamentos.csv')
+tabela = pd.read_csv('cancelamentos_sample.csv')
 print(tabela)
 
 
